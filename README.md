@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm Mohammed Mofiz Uddin</h1>
-<h3 align="center">An Electrical and Electronics Engineer with a major in VLSI Chip Design and a Minor in Robotics and Control Engineering. I'm passionate about autonomous vehicles, robotic systems, and embedded systems integrated with AI.</h3>
+<h3 align="center">An Electrical and Electronics Engineer with a major in VLSI Chip Design and a Minor in Robotics and Control Engineering. I'm passionate about autonomous vehicles, robotic systems, and embedded systems integrated with AI & ML.</h3>
 
 - 🔭 I’m currently working on **SignSpeak: A Camera-Free Wearable System with A CNN-LSTM Network Enabling Communication-Impaired Bangladeshis to Connect in Real-Time**
 
